@@ -36,7 +36,7 @@ blood_bank_system/
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR_USERNAME/blood_bank_system.git
+   git clone https://github.com/gitneha17/blood_bank_system.git
 
 2. Go to project folder:
 
